@@ -1,4 +1,4 @@
-# my-vue2-app
+# SampleVueRouter
 
 ## Project setup
 ```
